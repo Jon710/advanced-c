@@ -1,0 +1,7 @@
+a pointer is a memory address. it's a type of data.
+
+%p prints out a pointer.
+&variable accesses the physical address of a variable.
+
+dereferencing a pointer means you're going to the memory address of that pointer
+and you're getting the piece of info from it
