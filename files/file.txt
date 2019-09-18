@@ -1,0 +1,6 @@
+fopen -> opens a file
+anytime you open a file, make sure you close it as well!! -> fclose()
+
+w = write
+r = read file
+a = append file 
